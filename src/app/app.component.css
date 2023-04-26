@@ -1,0 +1,47 @@
+nav {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: yellow;
+  height: 37px;
+}
+
+.nav--img {
+      position: fixed;
+      left: 0;
+      border : 1px solid black;
+      border-radius: 30px;
+      width: 50px;
+      height: 30px;
+      background-color: black;
+}
+
+.nav--text{
+      position: fixed;
+      margin-top: 5px;
+      display: inline-block;
+      justify-content: center;
+}
+
+
+
+.col-md-4{
+      height: 325px;
+}
+
+.col-md-6{
+      height: 325px;
+}
+
+
+#footer {
+      position: fixed;
+      text-align: center;
+      bottom: 0;
+      width: 100%;
+      /* Height of the footer*/
+      height: 40px;
+      background: grey;
+  }
+
+
